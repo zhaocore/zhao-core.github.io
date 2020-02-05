@@ -1,0 +1,15 @@
+https://blog.wxget.com/2020/01/18/rust/04.ownership/
+https://blog.wxget.com/2020/01/17/rust/03.vscode-rust/
+https://blog.wxget.com/2020/01/17/rust/02.cargo/
+https://blog.wxget.com/2020/01/17/rust/01.hello-world/
+https://blog.wxget.com/2019/01/30/all-ts-types/
+https://blog.wxget.com/2019/01/30/decorator4ts/
+https://blog.wxget.com/2019/01/01/2018-summary/
+https://blog.wxget.com/2019/01/01/friends-of-time-2018/
+https://blog.wxget.com/2017/03/15/sublime-2/
+https://blog.wxget.com/2017/03/12/sublime-1/
+https://blog.wxget.com/2017/02/06/ssh-connection/
+https://blog.wxget.com/2017/02/03/google-cloud-server/
+https://blog.wxget.com/2016/12/30/https-use-3/
+https://blog.wxget.com/2016/12/29/https-use-2/
+https://blog.wxget.com/2016/12/28/https-use-1/
