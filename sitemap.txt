@@ -20,7 +20,7 @@ https://zhaoxiong.me/2019/01/01/friends-of-time-2018/
 https://zhaoxiong.me/2019/01/30/decorator4ts/
 https://zhaoxiong.me/2019/01/30/all-ts-types/
 https://zhaoxiong.me/404.html
-https://zhaoxiong.me/2025/08/23/tushare%20-typescript-sdk/
+https://zhaoxiong.me/2025/08/23/tushare-typescript-sdk/
 https://zhaoxiong.me/2019/01/01/2018-summary/
 https://zhaoxiong.me/
 https://zhaoxiong.me/tags/2018%E5%B9%B4%E5%89%8D%E7%AB%AF%E6%80%BB%E7%BB%93/

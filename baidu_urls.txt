@@ -1,4 +1,4 @@
-https://zhaoxiong.me/2025/08/23/tushare%20-typescript-sdk/
+https://zhaoxiong.me/2025/08/23/tushare-typescript-sdk/
 https://zhaoxiong.me/2020/02/11/rust/05.borrowing/
 https://zhaoxiong.me/2020/01/18/rust/04.ownership/
 https://zhaoxiong.me/2020/01/17/rust/02.cargo/
